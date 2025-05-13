@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/_Start_Scene.unity
+    guid: f49075e2fe579084faeb11d14a26858b
+  - enabled: 1
+    path: Assets/__Hat_Map_Scene.unity
+    guid: 4736ac6828321d3459146cbdd9b351ec
+  - enabled: 1
+    path: Assets/__Eagle_Map_Scene.unity
+    guid: c33a50e288c884f45996dca03e679cca
+  - enabled: 1
+    path: Assets/_GameOver_Scene.unity
+    guid: b72e4c26d33dcbf42ab56ef313380d27
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
